@@ -26,5 +26,12 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+ Name: Ritika S
+ Reg No: 212221240046
+![image](https://github.com/Ritika-2706/WDM_EXP10/assets/93427238/e5e71f52-8a4e-4b25-9d71-ed6486c04d01)
+![image](https://github.com/Ritika-2706/WDM_EXP10/assets/93427238/31720edc-6aec-46ef-bffc-3b4dd86bf980)
+![image](https://github.com/Ritika-2706/WDM_EXP10/assets/93427238/cfff7ad6-b30c-4f24-b841-5bf22a2814b5)
+
 
 ### Result:
+Thus sentimental analysis for twitter data using Rapidminer is done successfully.
